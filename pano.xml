@@ -22,7 +22,7 @@
       <hotspot tilt="-3.68" description="" url="{node1}" title="Balcony" target="42.6/0.2/90.9" skinid="ht_node" id="Point01" pan="11.13"/>
       <hotspot tilt="-22.19" description="" url="{node6}" title="Guestroom &amp;  kitchen" target="-0.3/-4.6/92.1" skinid="ht_node" id="Point02" pan="14.13"/>
       <hotspot tilt="-5.17" description="" url="{node4}" title="Bedroom 2" target="-3.9/-2.4/98.9" skinid="ht_node" id="Point03" pan="-18.05"/>
-      <hotspot tilt="-9.21" description="" url="{node3}" title="Bedroom 1" target="23.3/-12.6/120.0" skinid="ht_node" id="Point04" pan="-33.86"/>
+      <hotspot tilt="-7.63" description="" url="{node3}" title="Bedroom 1" target="23.3/-12.6/120.0" skinid="ht_node" id="Point04" pan="-33.41"/>
       <hotspot tilt="-13.09" description="" url="{node2}" title="Bathroom" target="-79.8/-13.4/96.2" skinid="ht_node" id="Point05" pan="108.71"/>
       <hotspot tilt="-11.16" description="" url="{node8}" title="Coridor" target="46.7/-5.6/107.1" skinid="ht_node" id="Point06" pan="175.52"/>
     </hotspots>
