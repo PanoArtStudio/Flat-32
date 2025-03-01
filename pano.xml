@@ -84,8 +84,8 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label enabled="1" borderradius="1" width="180" textalpha="1" border="1" bordercolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000"/>
       <polystyle handcursor="1" bordercolor="0x71917d" mode="1" borderalpha="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x2fc1ff"/>
-      <hotspot pan="-128.98" skinid="ht_node" url="{node5}" description="" tilt="-42.87" target="4.2/0.0/79.0" id="Point01" title="Enter Flat 32"/>
-      <hotspot pan="-153.34" skinid="ht_node" url="{node6}" description="" tilt="-21.46" target="96.7/-5.4/101.9" id="Point02" title="Guestroom &amp; kitchen"/>
+      <hotspot pan="-134.35" skinid="ht_node" url="{node5}" description="" tilt="-42.67" target="4.2/0.0/79.0" id="Point01" title="Enter Flat 32"/>
+      <hotspot pan="-135.07" skinid="ht_node" url="{node6}" description="" tilt="-0.99" target="96.7/-5.4/101.9" id="Point02" title="Guestroom &amp; kitchen"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomout="0" zoomin="0" type="crossdissolve" zoomoutpause="1" zoomspeed="2" softedge="0" zoomfov="20" blendtime="1.1" blendcolor="0x000000"/>
@@ -113,7 +113,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label enabled="1" borderradius="1" width="180" textalpha="1" border="1" bordercolor="0x000000" height="20" background="1" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000"/>
       <polystyle handcursor="1" bordercolor="0x71917d" mode="1" borderalpha="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x2fc1ff"/>
-      <hotspot pan="110.19" skinid="ht_node" url="{node6}" description="" tilt="-42.01" target="108.0/2.7/120.0" id="Point01" title="Guestroom &amp; Kitchen"/>
+      <hotspot pan="108.97" skinid="ht_node" url="{node6}" description="" tilt="-5.86" target="108.0/2.7/120.0" id="Point01" title="Guestroom &amp; Kitchen"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomout="0" zoomin="0" type="crossdissolve" zoomoutpause="1" zoomspeed="2" softedge="0" zoomfov="20" blendtime="1.1" blendcolor="0x000000"/>
